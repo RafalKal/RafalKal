@@ -3,13 +3,15 @@
 ### I am a Computer Science graduate and currently a master's student in Business Analytics and Big Data. I'm working as a Java Developer.
 
 ## Currently working with: 
-- Java (Spring/Spring Boot)  
-- PL/SQL  
-- Vaadin  
-- Oracle SQL  
-- REST API  
-- JUnit, Mockito  
-- Git  
+- Java (Spring/Spring Boot)   
+- PL/SQL   
+- Vaadin   
+- Oracle SQL / PLSQL   
+- REST API   
+- JUnit, Mockito   
+- Git   
+- React Native   
+- Android Studio   
 
 ## Projects in progress:
 - Core Banking system – part of a large-scale enterprise banking project at Asseco Poland  
