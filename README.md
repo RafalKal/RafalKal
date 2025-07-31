@@ -1,6 +1,6 @@
 # Rafał Kalandyk
 
-### I am a Computer Science graduate and currently a master's student in Business Analytics and Big Data. I'm working as a Java Developer.
+### I am a Computer Science graduate and currently a master's student in Business Analytics and Big Data. I'm working as a Java Developer @ Asseco Poland
 
 ## Currently working with: 
 - Java (Spring/Spring Boot)   
